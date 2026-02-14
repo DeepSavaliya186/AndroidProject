@@ -130,7 +130,7 @@ DriveGuard/
 
 - **Developer**: Deep Savaliya  
 - **Supervisor**: Prof. Dr. Götz Winterfeldt  
-- **Institution**: Hochschule Augsburg – University of Applied Sciences  
+- **Institution**: Technische Hochschule Deggendorf 
 
 ---
 
